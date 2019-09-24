@@ -1,0 +1,25 @@
+
+#password{
+  font-size: 30px;
+  border-radius: 16px;
+  font-family: Comic Sans MS;
+
+}
+
+#userName{
+	font-size: 30px;
+	  border-radius: 16px;
+	    font-family: Comic Sans MS;
+	
+}
+#buttonOnclick{
+	font-size: 20px;
+	  border-radius: 16px;
+	    font-family: Comic Sans MS;
+	
+
+}
+body{
+	background:black;
+}
+
