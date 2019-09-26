@@ -1,19 +1,22 @@
+
 #password{
-  font-size: 1.1vw;
-  border-radius: 1vw;
+
+  font-size: 170%;
+  border-radius: 40px;
   font-family: Comic Sans MS;
 
 }
 
 #userName{
-	font-size: 1.1vw;
-	  border-radius: 1vw;
+	font-size: 170%;
+	  border-radius: 40px;
 	    font-family: Comic Sans MS;
 	
 }
 #buttonOnclick{
-	font-size: 1.1vw;
-	  border-radius: 1vw;
+	
+	font-size: 150%;
+	  border-radius: 40px;
 	    font-family: Comic Sans MS;
 	
 
@@ -22,4 +25,3 @@ body{
 	background: gray;
 
 }
-
